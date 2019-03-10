@@ -1,0 +1,17 @@
+{
+  "name": "ch2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node skelton.js",
+    "shot": "node screenshot.js"
+  },
+  "keywords": [],
+  "author": "kento75 <kento2github@gmail.com> (https://overreact.tk)",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
